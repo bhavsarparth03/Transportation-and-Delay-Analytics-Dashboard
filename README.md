@@ -18,7 +18,7 @@ This repository documents my **Transportation & Delay Analytics** Tableau dashbo
 ## 🧰 Tech Stack
 - **Tableau Public / Desktop** – modeling, calculations, dashboarding
 - **CSV/Excel (Kaggle)** – source data
-- **SQL** – light cleanup before Tableau
+- **Python** – light cleanup before Tableau
 
 ---
 
